@@ -5,7 +5,7 @@ Rapport TP IA en Finance
 <img src="photo_Elisee_DS.jpg" style="height:400px;margin-right:250px"/>
 ## Ilboudo Wendkouni Elisee CAC 2
 
-<img src="WhatsApp Image 2026-02-17 at 4.33.27 PM.jpg" style="height:400px;margin-right:250px"/>
+<img src="WhatsApp Image 2026-02-17 at 4.33.27 PM.jpeg" style="height:400px;margin-right:250px"/>
 ## Sessi Akou Sika Audrey PSCM
 
 ## Introduction
