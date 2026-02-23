@@ -1,10 +1,8 @@
-
-
 Rapport TP IA en Finance
-## Nom :
-## Prénom :
-## Filière :
-## Date :
+
+
+## Ilboudo Wendkouni Elisee CAC 2
+## Date : WhatsApp Image 2026-02-17 at 4.33.27 PM
 Titre du TP :
 ## Introduction
 Ce TP vise à combiner des notions d’analyse statistique et de modélisation supervisée en finance. Les
