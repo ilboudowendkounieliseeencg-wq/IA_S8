@@ -1,9 +1,13 @@
 Rapport TP IA en Finance
 
+<img src="Encgd.png" style="height:80px;margin-right:50px"/>
 
+<img src="photo_Elisee_DS.jpg" style="height:400px;margin-right:250px"/>
 ## Ilboudo Wendkouni Elisee CAC 2
-## Date : WhatsApp Image 2026-02-17 at 4.33.27 PM
-Titre du TP :
+
+<img src="WhatsApp Image 2026-02-17 at 4.33.27 PM.jpg" style="height:400px;margin-right:250px"/>
+## Sessi Akou Sika Audrey PSCM
+
 ## Introduction
 Ce TP vise à combiner des notions d’analyse statistique et de modélisation supervisée en finance. Les
 objectifs sont (1) d’étudier des mesures de risque de portefeuille (moyenne, variance, VaR, Sharpe) afin
