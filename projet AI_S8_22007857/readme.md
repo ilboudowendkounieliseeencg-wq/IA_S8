@@ -31,7 +31,3 @@ Généralement, votre fichier s'articule autour des dimensions suivantes :
 
 * **Séquençage :** Le modèle va "apprendre" que si le prix baisse 3 jours de suite avec un volume croissant, il y a une forte probabilité de poursuite de la baisse à $J+1$.
 * **Indicateurs Dérivés :** À partir de ces colonnes brutes, le code va générer des **indicateurs techniques** (RSI, Moyennes Mobiles) qui transformeront de simples chiffres en signaux de tendance.
-
-> **Note :** Pour que le modèle soit performant sur Google Colab, assurez-vous que les colonnes numériques ne contiennent pas de symboles monétaires (comme "MAD") ou de virgules à la place des points, ce qui bloquerait les calculs mathématiques.
-
-**Souhaitez-vous que je vous aide à vérifier si le format des dates dans votre fichier nécessite un nettoyage spécifique avant de lancer le modèle ?**
