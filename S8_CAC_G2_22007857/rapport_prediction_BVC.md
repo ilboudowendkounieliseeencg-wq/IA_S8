@@ -638,5 +638,3 @@ Le remplacement de la recherche aléatoire par une **optimisation bayésienne** 
 
 ---
 
-*Rapport généré automatiquement — Version Markdown | Tous droits réservés*  
-*Format LaTeX des formules mathématiques compatible avec les renderers Jupyter, GitHub, Typora et Obsidian.*
