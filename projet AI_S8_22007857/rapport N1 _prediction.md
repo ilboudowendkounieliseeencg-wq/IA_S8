@@ -1,5 +1,9 @@
+<img src="Encgd.png" style="height:80px;margin-right:50px"/>
+
 ## Modèle Prédictif des Performances financières des entreprises marocaines
 ### Architecture XGBoost avec Logique d'Affinage Temporel à 15 Jours
+
+<img src="photo_Elisee_DS.jpg" style="height:400px;margin-right:250px"/>
 
 **Auteur :** ILBOUDO WENDKOUNI ELISEE 
 **Apogée :** 22007857 
