@@ -2,7 +2,7 @@
 
 ```
 ┌──────────────────────────────────────────────────────────────────────┐
-│  [Logo ENCG Settat — haut gauche]      Université Hassan 1er         │
+│<img src="Encgd.png" style="height:80px;margin-right:50px"/>      Université Hassan 1er         │
 │                                                                       │
 │          ÉCOLE NATIONALE DE COMMERCE ET DE GESTION                   │
 │                         DE SETTAT                                     │
@@ -18,10 +18,10 @@
 │               avec Logique d'Affinage Temporel à 15 Jours             │
 │                                                                       │
 │  Module :     Data Science Appliquée à la Finance                    │
-│  Filière :    L3 — Semestre 8                                        │
+│  Filière :    CAC 2 — Semestre 8                                        │
 │                                                                       │
 │  Réalisé par :  ILBOUDO WENDKOUNI ELISEE  (Apogée : 22007857)       │
-│  Encadrant :    [Titre + Prénom NOM de l'encadrant]                  │
+│  Encadrant :    M. Abderrahim Larhlimi                               │
 │  Date :         17 Mars 2026                                         │
 │                                                                       │
 │  ───────────────────────────────────────────────────────────────────│
