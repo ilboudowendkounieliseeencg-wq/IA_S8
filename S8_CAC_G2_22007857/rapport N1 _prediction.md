@@ -1,12 +1,6 @@
 # Modélisation Prédictive des Prix des Actions par Intelligence Artificielle
 ## Application à la Bourse des Valeurs de Casablanca — Horizon 15 Jours
 
-> **Rapport Technique — Finance Quantitative & Data Science**  
-> **Auteur :** Expert Senior en Ingénierie Financière & Data Science  
-> **Version :** 1.0 | Classification : Usage Éducatif & Recherche  
-
----
-
 ## 📋 Sommaire
 
 1. [Introduction et Contexte Historique](#1-introduction-et-contexte-historique)
