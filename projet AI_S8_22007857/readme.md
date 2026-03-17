@@ -1,5 +1,3 @@
-Voici un descriptif synthétique de la structure type de votre base de données `stocks.csv`, telle qu'elle est généralement articulée pour la **Bourse de Casablanca** :
-
 Lien vers le jeu de donnée:    https://drive.google.com/file/d/1nhK4jq_UTkaGZz79yNyoHR1S-hmvicBD/view?usp=drive_link
 
 ### 📊 Fiche d'Identité du Dataset
