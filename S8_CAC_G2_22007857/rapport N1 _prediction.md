@@ -1,5 +1,9 @@
-# Modélisation Prédictive des Prix des Actions par Intelligence Artificielle
-## Application à la Bourse des Valeurs de Casablanca — Horizon 15 Jours
+## Modèle Prédictif des Performances financières des entreprises marocaines
+### Architecture XGBoost avec Logique d'Affinage Temporel à 15 Jours
+
+**Auteur :** ILBOUDO WENDKOUNI ELISEE 
+**Apogée :** 22007857 
+**Date :** 17 Mars 2026  
 
 ## 📋 Sommaire
 
