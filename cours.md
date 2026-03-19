@@ -357,5 +357,3 @@ En définitive, Danone illustre bien une idée essentielle en stratégie :
 - Informations publiques sur **Centrale Danone Maroc**, son activité et le contexte du marché marocain.
 
 ---
-
-Si vous voulez, je peux maintenant vous faire une **version encore plus “humaine” et naturelle**, comme un **devoir universitaire rédigé par un étudiant en master**, ou au contraire une **version plus soutenue et académique**, prête à rendre.
