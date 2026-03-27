@@ -2,11 +2,17 @@
 
 <img src="photo_Elisee_DS.jpg" style="height:200px;margin-right:150px"/>
 
+##
 **Auteur :** ILBOUDO WENDKOUNI ELISEE
+
 **Filière :** CAC 2
+
 **Apogée :** 22007857
+
 **Module :** Intelligence Artificielle
+
 **Encadré par :** Pr. Larhlimi Abdelrahim
+
 **Date :** 17 Mars 2026  
 
 ## Compte rendu projet IA
