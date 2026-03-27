@@ -1,6 +1,6 @@
-<img src="Encgd.png" style="height:80px;margin-right:50px"/>                 <img src="uhp.jng" style="height:80px;margin-right:50px"/>
+<img src="Encgd.png" style="height:80px;margin-right:50px"/>                 <img src="uhp.png" style="height:80px;margin-right:50px"/>
 
-<img src="photo_Elisee_DS.jpg" style="height:200px;margin-right:150px"/>
+<img src="photo_Elisee_DS.jpg" style="height:100px;margin-right:50px"/>
 
 **Auteur :** ILBOUDO WENDKOUNI ELISEE
 **Filière :** CAC 2
