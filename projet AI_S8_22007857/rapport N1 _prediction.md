@@ -1,11 +1,6 @@
 <img src="Encgd.png" style="height:80px;margin-right:50px"/>
 
-## Compte rendu projet IA
-
-## Modèle Prédictif des Performances financières des entreprises marocaines
-### Architecture XGBoost avec Logique d'Affinage Temporel à 15 Jours
-
-<img src="photo_Elisee_DS.jpg" style="height:400px;margin-right:250px"/>
+                                                                                                <img src="photo_Elisee_DS.jpg" style="height:400px;margin-right:250px"/>
 
 **Auteur :** ILBOUDO WENDKOUNI ELISEE
 **Filière :** CAC 2
@@ -13,6 +8,12 @@
 **Module :** Intelligence Artificielle
 **Encadré par :** Pr. Larhlimi Abdelrahim
 **Date :** 17 Mars 2026  
+
+## Compte rendu projet IA
+
+## Modèle Prédictif des Performances financières des entreprises marocaines
+### Architecture XGBoost avec Logique d'Affinage Temporel à 15 Jours
+
 
 ## 📋 Sommaire
 
